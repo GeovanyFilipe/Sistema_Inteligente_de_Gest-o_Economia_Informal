@@ -2,6 +2,5 @@
 
 É uma aplicação mobile que visa ajudar empreendedores informais a gerirem melhor o seu negócio, de uma maneira mais estruturada e organizada. 
 
-Ela 
 
 

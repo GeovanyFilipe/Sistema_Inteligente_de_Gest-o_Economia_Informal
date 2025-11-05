@@ -1,0 +1,1 @@
+# Sistema_Inteligente_de_Gestao_Economia_Informal
